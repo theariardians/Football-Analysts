@@ -6,7 +6,7 @@ https://www.kaggle.com/datasets/davidcariboo/player-scores/
 
 ## Anggota Kelompok
 
-1. Ari Ardiansyah (210741031)
+1. Ari Ardiansyah 
 2. A. Resti Supraeni
 3. Farhanah
 4. Yuniani
