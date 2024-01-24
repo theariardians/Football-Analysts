@@ -2,7 +2,7 @@
 
 ## DataSet Kaggle
 
-Data Inputnya ada di link dibawah ini
+Data Inputnya ada di link ini
 https://www.kaggle.com/datasets/davidcariboo/player-scores/
 
 ## Anggota Kelompok
